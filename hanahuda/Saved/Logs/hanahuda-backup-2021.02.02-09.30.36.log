@@ -1,0 +1,635 @@
+﻿Log file open, 01/29/21 13:04:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: hanahuda
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286874
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin DatasmithMDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.01.29-04.04.49:380][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-04.04.49:380][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.29-04.04.49:392][  0]LogHAL: Display: Platform has ~ 16 GB [17031290880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.29-04.04.49:392][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2021.01.29-04.04.49:392][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.29-04.04.49:393][  0]LogInit: Computer: CG16-15-PC
+[2021.01.29-04.04.49:393][  0]LogInit: User: CG15
+[2021.01.29-04.04.49:393][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.29-04.04.49:393][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.29-04.04.49:393][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.29-04.04.49:394][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.29-04.04.49:394][  0]LogMemory: Process Physical Memory: 100.63 MB used, 100.63 MB peak
+[2021.01.29-04.04.49:394][  0]LogMemory: Process Virtual Memory: 90.95 MB used, 90.95 MB peak
+[2021.01.29-04.04.49:394][  0]LogMemory: Physical Memory: 5259.68 MB used,  10982.63 MB free, 16242.30 MB total
+[2021.01.29-04.04.49:394][  0]LogMemory: Virtual Memory: 4628.55 MB used,  10982.63 MB free, 134217728.00 MB total
+[2021.01.29-04.04.49:413][  0]LogInit: Using OS detected language (ja-JP).
+[2021.01.29-04.04.49:413][  0]LogInit: Using OS detected locale (ja-JP).
+[2021.01.29-04.04.49:414][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2021.01.29-04.04.49:766][  0]LogStreaming: Display: Took  0.353s to InitEngineTextLocalization.
+[2021.01.29-04.04.49:766][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.29-04.04.49:828][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.29-04.04.49:828][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.29-04.04.50:029][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.01.29-04.04.50:029][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.29-04.04.50:093][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2021.01.29-04.04.50:093][  0]LogD3D11RHI:       4053/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.01.29-04.04.50:125][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.01.29-04.04.50:125][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.29-04.04.50:127][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.29-04.04.50:127][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.29-04.04.50:127][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.29-04.04.50:134][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.29-04.04.50:134][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.29-04.04.50:134][  0]LogWindows: EnumDisplayDevices:
+[2021.01.29-04.04.50:134][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2021.01.29-04.04.50:134][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.01.29-04.04.50:134][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.01.29-04.04.50:135][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2021.01.29-04.04.50:135][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.29-04.04.50:135][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.29-04.04.50:135][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.01.29-04.04.50:136][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.29-04.04.50:136][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2021.01.29-04.04.50:136][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2021.01.29-04.04.50:136][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2021.01.29-04.04.50:136][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2021.01.29-04.04.50:175][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.29-04.04.50:187][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.29-04.04.50:189][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Intermediate/Shaders/WorkingDirectory/15436/).
+[2021.01.29-04.04.50:189][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CG15/AppData/Local/Temp/UnrealShaderWorkingDir/2D94D503455069E3F9D4FE81D565DD05/'.
+[2021.01.29-04.04.50:487][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.01.29-04.04.50:500][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.01.29-04.04.50:513][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.01.29-04.04.50:527][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.01.29-04.04.50:541][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.01.29-04.04.50:556][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.01.29-04.04.50:573][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.01.29-04.04.50:586][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.01.29-04.04.50:593][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:670][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-04.04.50:671][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.01.29-04.04.50:731][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.29-04.04.50:731][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.29-04.04.50:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.29-04.04.50:754][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.29-04.04.50:766][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.01.29-04.04.50:778][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.01.29-04.04.50:789][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.01.29-04.04.50:803][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.01.29-04.04.50:811][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.01.29-04.04.50:811][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.29-04.04.50:868][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.29-04.04.50:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.29-04.04.50:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.29-04.04.51:739][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/CG15/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/CG15/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-04.04.51:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.29-04.04.51:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.29-04.04.51:821][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CG15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.29-04.04.51:821][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.29-04.04.51:821][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.29-04.04.51:838][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.29-04.04.51:839][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.29-04.04.51:840][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.29-04.04.51:917][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2021.01.29-04.04.52:312][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-04.04.52:451][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.01.29-04.04.52:455][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.01.29-04.04.52:455][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.29-04.04.52:455][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.29-04.04.52:455][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.01.29-04.04.52:471][  0]LogNetVersion: hanahuda 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2178811581)
+[2021.01.29-04.04.52:978][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.091421 seconds
+[2021.01.29-04.04.52:983][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2021.01.29-04.04.52:983][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2021.01.29-04.04.52:983][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.29-04.04.53:910][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.29-04.04.53:923][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.29-04.04.54:059][  0]SourceControl: ソースコントロールは無効です
+[2021.01.29-04.04.54:059][  0]SourceControl: ソースコントロールは無効です
+[2021.01.29-04.04.54:060][  0]SourceControl: ソースコントロールは無効です
+[2021.01.29-04.04.54:061][  0]SourceControl: ソースコントロールは無効です
+[2021.01.29-04.04.54:223][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.29-04.04.54:290][  0]LogOcInput: OculusInput pre-init called
+[2021.01.29-04.04.56:276][  0]LogEngine: Initializing Engine...
+[2021.01.29-04.04.56:277][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2021.01.29-04.04.56:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.29-04.04.56:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.29-04.04.56:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.29-04.04.56:279][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.29-04.04.56:476][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.29-04.04.56:489][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.29-04.04.56:510][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.29-04.04.56:557][  0]LogInit: FAudioDevice initialized.
+[2021.01.29-04.04.56:557][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.29-04.04.56:762][  0]LogDerivedDataCache: Saved boot cache 0.20s 72MB C:/Users/CG15/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2021.01.29-04.04.56:770][  0]LogInit: Texture streaming: Enabled
+[2021.01.29-04.04.56:785][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.29-04.04.56:799][  0]LogInit: Transaction tracking system initialized
+[2021.01.29-04.04.56:824][  0]BlueprintLog: New page: エディタの読み込み
+[2021.01.29-04.04.56:896][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2021.01.29-04.04.57:135][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.29-04.04.57:135][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.29-04.04.57:135][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.01.29-04.04.57:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.29-04.04.57:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.29-04.04.57:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.29-04.04.57:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.29-04.04.57:247][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CG15/Desktop/SOC19073/hanahuda/Content/' took 0.02s
+[2021.01.29-04.04.58:501][  0]SourceControl: ソースコントロールは無効です
+[2021.01.29-04.04.58:501][  0]Cmd: MAP LOAD FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-04.04.58:501][  0]LightingResults: New page: ライティングのビルド
+[2021.01.29-04.04.58:504][  0]MapCheck: New page: マップをチェック
+[2021.01.29-04.04.58:504][  0]LightingResults: New page: <何も選択されていません>
+[2021.01.29-04.04.58:831][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.29-04.04.58:839][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-04.04.58:860][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-04.04.58:949][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 88.717ミリ秒かかりました。
+[2021.01.29-04.04.58:949][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.448
+[2021.01.29-04.04.59:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.04.59:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.04.59:072][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.04.59:081][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.04.59:087][  0]LogCollectionManager: Loaded 0 collections in 0.001528 seconds
+[2021.01.29-04.04.59:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CG15/Desktop/SOC19073/hanahuda/Saved/Collections/' took 0.01s
+[2021.01.29-04.04.59:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CG15/Desktop/SOC19073/hanahuda/Content/Developers/CG15/Collections/' took 0.01s
+[2021.01.29-04.04.59:129][  0]LogFileCache: Scanning file cache for directory 'C:/Users/CG15/Desktop/SOC19073/hanahuda/Content/Collections/' took 0.01s
+[2021.01.29-04.04.59:129][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.01.29-04.04.59:139][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2621 classes and 629 folders.
+[2021.01.29-04.04.59:146][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.29-04.04.59:189][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.29-04.04.59:194][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.01.29-04.04.59:260][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.29-04.04.59:262][  0]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2021.01.29-04.04.59:263][  0]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2021.01.29-04.04.59:263][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.29-04.04.59:266][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.29-04.04.59:344][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-04.04.59:389][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-04.04.59:470][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.29-04.04.59:470][  0]LogLoad: (Engine Initialization) Total time: 11.67 seconds
+[2021.01.29-04.04.59:470][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.29-04.04.59:512][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.29-04.04.59:589][  1]LogAssetRegistry: Asset discovery search completed in 7.6951 seconds
+[2021.01.29-04.04.59:591][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.29-04.04.59:591][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2021.01.29-04.05.06:503][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.05.06:657][838]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-04.05.06:658][838]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2021.01.29-04.05.06:806][838]LogAIModule: Creating AISystem for world L1
+[2021.01.29-04.05.06:818][838]LogAssetEditorManager: Opening Asset editor for World /Game/L1.L1
+[2021.01.29-04.05.06:839][838]Cmd: MAP LOAD FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-04.05.06:839][838]LightingResults: New page: ライティングのビルド
+[2021.01.29-04.05.06:839][838]LoadErrors: New page: マップをロード中: L1.umap
+[2021.01.29-04.05.06:840][838]MapCheck: New page: マップをチェック
+[2021.01.29-04.05.06:840][838]LightingResults: New page: <何も選択されていません>
+[2021.01.29-04.05.06:921][838]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-04.05.06:957][838]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-04.05.07:050][838]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 92.258ミリ秒かかりました。
+[2021.01.29-04.05.07:051][838]LogFileHelpers: Loading map 'L1' took 0.213
+[2021.01.29-04.05.11:041][146]LogSlate: Window '親クラスを選択' being destroyed
+[2021.01.29-04.05.37:394][701]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ActorPlayer.ActorPlayer
+[2021.01.29-04.05.37:848][701]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2021.01.29-04.05.38:709][701]LogRenderer: Reallocating scene render targets to support 1208x808 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-04.05.43:191][164]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-04.05.44:238][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.06.30:667][122]BlueprintLog: New page: ActorPlayer をコンパイル
+[2021.01.29-04.07.02:324][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorPlayer" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset" SILENT=true
+[2021.01.29-04.07.02:342][553]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/ActorPlayerF81DF99141A9D9F0E1859CB6ECA8CF2D.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset'
+[2021.01.29-04.07.04:879][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.07.05:475][902]Cmd: TRANSACTION UNDO
+[2021.01.29-04.07.05:475][902]LogEditorTransaction: Undo 新規シーンルートを作成
+[2021.01.29-04.07.11:540][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.08.10:049][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.08.15:484][595]LogEditorTransaction: Undo コンポーネントを修正
+[2021.01.29-04.08.15:804][622]LogEditorTransaction: Undo 新規シーンルートを作成
+[2021.01.29-04.08.16:066][644]LogEditorTransaction: Undo 新規シーンルートを作成
+[2021.01.29-04.08.16:333][674]LogEditorTransaction: Undo コンポーネントを追加
+[2021.01.29-04.08.16:707][716]LogEditorTransaction: Undo コンポーネントを取り除く
+[2021.01.29-04.08.17:010][749]LogEditorTransaction: Undo コンポーネントを追加
+[2021.01.29-04.08.17:369][789]LogEditorTransaction: Undo 新規シーンルートを作成
+[2021.01.29-04.08.27:819][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.08.27:837][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorPlayer" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset" SILENT=true
+[2021.01.29-04.08.27:877][902]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/ActorPlayer4F0A6DE040DBC578A1827B829E992B25.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset'
+[2021.01.29-04.08.28:609][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.08.30:167][145]LogEditorTransaction: Undo 新規シーンルートを作成
+[2021.01.29-04.08.32:511][381]BlueprintLog: New page: ActorPlayer をコンパイル
+[2021.01.29-04.08.33:834][498]LogTemp: Repeating last play command: 選択ビューポート
+[2021.01.29-04.08.33:848][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.08.33:848][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-04.08.33:861][498]PIE: New page: PIEセッション: L1 (2021/01/29 22:08:33)
+[2021.01.29-04.08.33:861][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L1
+[2021.01.29-04.08.33:869][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007520s)
+[2021.01.29-04.08.33:869][498]LogAIModule: Creating AISystem for world L1
+[2021.01.29-04.08.33:869][498]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2021.01.29-04.08.33:869][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L1.L1 to /Game/UEDPIE_0_L1.L1 (0.008368s)
+[2021.01.29-04.08.33:896][498]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.29-04.08.33:915][498]LogInit: FAudioDevice initialized.
+[2021.01.29-04.08.33:955][498]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-04.08.33:959][498]LogWorld: Bringing World /Game/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2021.01.29-13.08.33
+[2021.01.29-04.08.33:959][498]LogWorld: Bringing up level for play took: 0.002604
+[2021.01.29-04.08.33:976][498]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2021.01.29-04.08.33:977][498]PIE: /Game/UEDPIE_0_L1 -0.165のプレイ イン エディタの開始時間
+[2021.01.29-04.08.33:977][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.08.35:453][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.08.35:453][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.08.35:490][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-04.08.35:490][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.08.35:514][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.08.35:559][599]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.29-04.08.51:171][ 52]Cmd: TRANSACTION UNDO
+[2021.01.29-04.08.51:171][ 52]LogEditorTransaction: Undo コンポーネントを修正
+[2021.01.29-04.08.51:432][ 74]Cmd: TRANSACTION UNDO
+[2021.01.29-04.08.51:432][ 74]LogEditorTransaction: Undo コンポーネントを追加
+[2021.01.29-04.08.53:080][255]LogSlate: Window 'ActorPlayer*' being destroyed
+[2021.01.29-04.08.53:084][255]LogSlate: Window 'ActorPlayer*' being destroyed
+[2021.01.29-04.08.54:977][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.08.55:943][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorPlayer" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset" SILENT=true
+[2021.01.29-04.08.55:953][572]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/ActorPlayerA2DE931349C7AEBAAEDEFE9D6AC89BCA.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/ActorPlayer.uasset'
+[2021.01.29-04.08.58:680][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.09.00:254][ 79]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/graf/Graf.Graf
+[2021.01.29-04.09.00:259][ 79]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.29-04.09.00:448][ 79]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.29-04.09.00:451][ 79]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.01.29-04.09.00:493][ 79]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.29-04.09.00:749][ 79]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.01.29-04.09.12:484][365]Cmd: TRANSACTION UNDO
+[2021.01.29-04.09.12:484][365]LogEditorTransaction: Undo ボーンを回転
+[2021.01.29-04.09.12:568][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.29-04.09.21:451][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.09.21:563][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf.uasset" SILENT=true
+[2021.01.29-04.09.21:621][234]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/Graf5D54D71444EF380B04EC17A9220C6930.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf.uasset'
+[2021.01.29-04.09.27:059][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.09.30:155][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.09.57:523][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.06:575][749]LogSlate: Window 'Graf' being destroyed
+[2021.01.29-04.10.06:580][749]LogSlate: Window 'Graf' being destroyed
+[2021.01.29-04.10.07:580][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.07:729][874]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/graf/Graf.Graf
+[2021.01.29-04.10.07:736][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.29-04.10.07:772][874]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.29-04.10.15:045][552]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/graf/Graf_PhysicsAsset.Graf_PhysicsAsset
+[2021.01.29-04.10.15:112][552]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2021.01.29-04.10.15:125][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.01.29-04.10.15:388][552]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2021.01.29-04.10.15:388][552]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.29-04.10.25:849][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.25:934][724]LogSlate: Window 'Graf_PhysicsAsset' being destroyed
+[2021.01.29-04.10.25:939][724]LogSlate: Window 'Graf_PhysicsAsset' being destroyed
+[2021.01.29-04.10.28:251][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.29:468][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.10.36:247][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.36:321][931]LogTemp: Repeating last play command: 選択ビューポート
+[2021.01.29-04.10.36:332][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.10.36:332][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-04.10.36:332][931]PIE: New page: PIEセッション: L1 (2021/01/29 22:10:36)
+[2021.01.29-04.10.36:332][931]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L1
+[2021.01.29-04.10.36:340][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007863s)
+[2021.01.29-04.10.36:341][931]LogAIModule: Creating AISystem for world L1
+[2021.01.29-04.10.36:341][931]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2021.01.29-04.10.36:341][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L1.L1 to /Game/UEDPIE_0_L1.L1 (0.008660s)
+[2021.01.29-04.10.36:373][931]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.29-04.10.36:390][931]LogInit: FAudioDevice initialized.
+[2021.01.29-04.10.36:419][931]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-04.10.36:424][931]LogWorld: Bringing World /Game/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2021.01.29-13.10.36
+[2021.01.29-04.10.36:424][931]LogWorld: Bringing up level for play took: 0.003869
+[2021.01.29-04.10.36:437][931]PIE: /Game/UEDPIE_0_L1 0.295のプレイ イン エディタの開始時間
+[2021.01.29-04.10.36:437][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.10.38:655][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.10.38:656][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.10.38:690][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-04.10.38:690][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.10.38:716][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.10.38:759][197]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.29-04.10.39:259][257]Cmd: SELECT NONE
+[2021.01.29-04.10.40:206][370]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Graf)
+[2021.01.29-04.10.41:201][483]Cmd: DELETE
+[2021.01.29-04.10.41:201][483]Cmd: ACTOR DELETE
+[2021.01.29-04.10.41:204][483]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.01.29-04.10.41:228][483]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.01.29-04.10.42:698][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.10.44:045][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ActorPlayer.ActorPlayer
+[2021.01.29-04.10.44:317][793]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.01.29-04.10.49:540][400]LogSlate: Window 'CompilerResults' being destroyed
+[2021.01.29-04.10.55:259][ 83]LogSlate: Window 'ActorPlayer' being destroyed
+[2021.01.29-04.10.55:329][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.10.55:332][ 83]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ActorPlayer.ActorPlayer
+[2021.01.29-04.11.04:607][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.11.29:671][703]LogSlate: Window 'ActorPlayer*' being destroyed
+[2021.01.29-04.11.29:677][703]LogSlate: Window 'ActorPlayer*' being destroyed
+[2021.01.29-04.11.42:347][904]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.29-04.11.43:113][904]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.11.43:164][904]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/graf/Graf.Graf
+[2021.01.29-04.11.43:169][904]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.11.43:218][904]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/graf/Graf.Graf
+[2021.01.29-04.11.49:210][162]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\CG15\Desktop\SOC19073\hanahuda\graf\graf\Graf.fbx)
+[2021.01.29-04.11.49:224][162]LogFbx: Loading FBX Scene from C:\Users\CG15\Desktop\SOC19073\hanahuda\graf\graf\Graf.fbx
+[2021.01.29-04.11.51:752][162]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.29-04.12.40:154][162]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2021.01.29-04.12.40:215][162]LogFbx: =================================================
+[2021.01.29-04.12.40:215][162]LogFbx: Dumping Node START [Body] 
+[2021.01.29-04.12.40:215][162]LogFbx: 	Total Deformer Count 653838272.
+[2021.01.29-04.12.40:215][162]LogFbx: 		[Node 1] ????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ??? (Type BlendShape).
+[2021.01.29-04.12.40:215][162]LogFbx: =================================================
+[2021.01.29-04.12.40:215][162]LogFbx: 		[Node 2] Armature (Type Skin).
+[2021.01.29-04.12.40:215][162]LogFbx: =================================================
+[2021.01.29-04.12.40:215][162]LogFbx: 	Attribute (????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ???) Type (4).
+[2021.01.29-04.12.40:215][162]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2021.01.29-04.12.40:215][162]LogFbx: Dumping Node END [Body]
+[2021.01.29-04.12.40:217][162]LogFbx: =================================================
+[2021.01.29-04.12.40:217][162]LogFbx: Dumping Node START [Body] 
+[2021.01.29-04.12.40:217][162]LogFbx: 	Total Deformer Count 653838272.
+[2021.01.29-04.12.40:217][162]LogFbx: 		[Node 1] ????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ??? (Type BlendShape).
+[2021.01.29-04.12.40:217][162]LogFbx: =================================================
+[2021.01.29-04.12.40:217][162]LogFbx: 		[Node 2] Armature (Type Skin).
+[2021.01.29-04.12.40:217][162]LogFbx: =================================================
+[2021.01.29-04.12.40:217][162]LogFbx: 	Attribute (????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ???) Type (4).
+[2021.01.29-04.12.40:217][162]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2021.01.29-04.12.40:217][162]LogFbx: Dumping Node END [Body]
+[2021.01.29-04.12.40:218][162]LogFbx: Warning: Not valid bind pose for Pose (????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ???) - Node Body : Not all the deformers are stored in this BindPose
+[2021.01.29-04.12.40:218][162]LogFbx: Valid bind pose for Pose (????????????Ver2.00 Type-C(?????? ?????????????????? ?????? ???) - Body
+[2021.01.29-04.12.40:354][162]LogMaterial: Warning: Material /Game/graf/GrafMain1.GrafMain1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.01.29-04.12.40:356][162]LogMaterial: Display: Missing cached shader map for material GrafMain1, compiling. 
+[2021.01.29-04.12.40:429][162]LogFbxMaterialImport: Warning: Unable to find Texture file D:\VRChatModels\Graf\Textures\GrafMain.png
+[2021.01.29-04.12.40:432][162]LogMaterial: Display: Missing cached shader map for material GrafMain1, compiling. 
+[2021.01.29-04.12.40:467][162]LogFbx: Triangulating skeletal mesh Body
+[2021.01.29-04.12.42:651][162]LogShaderCompilers: Display: Shaders left to compile 60
+[2021.01.29-04.12.42:651][162]LogShaderCompilers: Display: Shaders left to compile 50
+[2021.01.29-04.12.42:651][162]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.01.29-04.12.42:651][162]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.01.29-04.12.42:651][162]LogFbx: Warning: Bones digested - 115  Depth of hierarchy - 11
+[2021.01.29-04.12.43:458][162]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.29-04.12.43:679][162]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-04.12.43:687][162]LogSkeletalMesh: Section 0: 20147 vertices, 83 active bones
+[2021.01.29-04.12.43:691][162]LogSkeletalMesh: Section 0: Material=0, 30125 triangles
+[2021.01.29-04.12.43:692][162]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.12.43:767][162]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/graf/Graf.Graf
+[2021.01.29-04.12.43:778][162]LogLinker: ファイル '/Game/graf/Graf_Skeleton' が見つかりません
+[2021.01.29-04.12.43:778][162]LogLinker: ファイル '/Game/graf/Graf_Skeleton' が見つかりません
+[2021.01.29-04.12.43:780][162]LogLinker: ファイル '/Game/graf/Graf_PhysicsAsset' が見つかりません
+[2021.01.29-04.12.43:780][162]LogLinker: ファイル '/Game/graf/Graf_PhysicsAsset' が見つかりません
+[2021.01.29-04.12.43:789][162]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.01.29-04.12.43:805][162]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.12.43:881][162]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/graf/Graf.Graf
+[2021.01.29-04.12.43:955][162]FBXImport: Warning: このFBXシーンにはスムージンググループ情報がありません。ファイルをエクスポートする前に必ずFBX Exporter プラグインの[Export Smoothing Groups] オプションを有効にしてください。スムージング グループをサポートしないツールの場合でも、インポート中に正しい頂点法線を推測するため、FBX Exporter はエクスポート時に適切なスムージング データを生成します。 
+[2021.01.29-04.12.43:955][162]FBXImport: Warning: 以下のボーンがバインドポーズに不足しています：
+Eye_L_end  
+Eye_R_end  
+LeftEye_end  
+RightEye_end  
+Necktie_L_end  
+Necktie_R_end  
+Thumb2_L_end  
+IndexFinger3_L_end  
+MiddleFinger3_L_end  
+RingFinger3_L_end  
+LittleFinger3_L_end  
+Thumb2_R_end  
+IndexFinger3_R_end  
+MiddleFinger3_R_end  
+RingFinger3_R_end  
+LittleFinger3_R_end  
+Left toe_end  
+Right toe_end  
+Tail.005_end  
+SkirtF3_end  
+SkirtB3_end  
+SkirtL3_end  
+SkirtR3_end  
+SkirtFL3_end  
+SkirtBL3_end  
+SkirtFR3_end  
+SkirtBR3_end  
+
+インポート後に正しい向きに置かれない場合、頂点に重みづけがされていないボーンに発生する可能性があります。
+「Use T0 as ref pose」オプションを設定するか、バインドポーズにボーンを追加してスケルタルメッシュを再インポートしてください。 
+[2021.01.29-04.12.43:971][162]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.12.44:048][162]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/graf/Graf.Graf
+[2021.01.29-04.13.05:668][709]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/graf/Graf.Graf
+[2021.01.29-04.13.05:675][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.01.29-04.13.05:712][709]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.01.29-04.13.11:209][247]LogSkeletalMesh: Building Skeletal Mesh Graf...
+[2021.01.29-04.13.11:257][247]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/graf/Graf.Graf
+[2021.01.29-04.13.15:799][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf_Skeleton" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_Skeleton.uasset" SILENT=true
+[2021.01.29-04.13.15:803][658]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/Graf_SkeletonF84777F946ED24A793CBBD8A5BBCD74D.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_Skeleton.uasset'
+[2021.01.29-04.13.16:882][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf_PhysicsAsset" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_PhysicsAsset.uasset" SILENT=true
+[2021.01.29-04.13.16:895][748]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/Graf_PhysicsAssetDB7448FF494994DD020C89823F7EAC72.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_PhysicsAsset.uasset'
+[2021.01.29-04.13.18:115][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf.uasset" SILENT=true
+[2021.01.29-04.13.18:164][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/GrafE12307CD483AE2DF90F2FA9C6362E54E.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf.uasset'
+[2021.01.29-04.13.18:170][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf_PhysicsAsset" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_PhysicsAsset.uasset" SILENT=true
+[2021.01.29-04.13.18:178][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/Graf_PhysicsAsset0EB18C1747FC5337F004928657FB4D82.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_PhysicsAsset.uasset'
+[2021.01.29-04.13.18:186][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/Graf_Skeleton" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_Skeleton.uasset" SILENT=true
+[2021.01.29-04.13.18:194][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/Graf_Skeleton587EE97E4B81D1F3E089A99342B21BAE.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/Graf_Skeleton.uasset'
+[2021.01.29-04.13.18:205][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/GrafMain" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain.uasset" SILENT=true
+[2021.01.29-04.13.18:245][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/GrafMain580B33ED4E37009490B357BB093F5D68.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain.uasset'
+[2021.01.29-04.13.18:264][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/GrafMain1" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain1.uasset" SILENT=true
+[2021.01.29-04.13.18:274][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/GrafMain18874BD624F9C620968041190973082BA.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain1.uasset'
+[2021.01.29-04.13.18:288][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/graf/GrafMain_Mat" FILE="../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain_Mat.uasset" SILENT=true
+[2021.01.29-04.13.18:306][856]LogSavePackage: Moving '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Saved/GrafMain_MatF3B700234E86627353E2C88588A3FAE5.tmp' to '../../../../../../Users/CG15/Desktop/SOC19073/hanahuda/Content/graf/GrafMain_Mat.uasset'
+[2021.01.29-04.13.20:157][ 49]LogSlate: Window 'Graf' being destroyed
+[2021.01.29-04.13.20:163][ 49]LogSlate: Window 'Graf' being destroyed
+[2021.01.29-04.13.25:425][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.13.28:859][ 71]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ActorPlayer.ActorPlayer
+[2021.01.29-04.13.40:801][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-04.13.40:861][382]BlueprintLog: New page: ActorPlayer をコンパイル
+[2021.01.29-04.13.44:245][659]LogEditorViewport: Clicking on Actor (LMB): Cube2_Blueprint_C (Cube2_Blueprint75)
+[2021.01.29-04.13.49:278][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.13.50:114][257]LogEditorViewport: Clicking on Actor (LMB): PawnPlayer_C (PawnPlayer)
+[2021.01.29-04.13.54:641][735]Cmd: DELETE
+[2021.01.29-04.13.54:641][735]Cmd: ACTOR DELETE
+[2021.01.29-04.13.54:645][735]LogEditorActor: Deleted Actor: PawnPlayer_C
+[2021.01.29-04.13.54:670][735]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.01.29-04.13.57:998][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.13.59:202][217]LogTemp: Repeating last play command: 選択ビューポート
+[2021.01.29-04.13.59:216][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.13.59:216][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-04.13.59:216][217]PIE: New page: PIEセッション: L1 (2021/01/29 22:13:59)
+[2021.01.29-04.13.59:216][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L1
+[2021.01.29-04.13.59:223][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007358s)
+[2021.01.29-04.13.59:224][217]LogAIModule: Creating AISystem for world L1
+[2021.01.29-04.13.59:224][217]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2021.01.29-04.13.59:224][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L1.L1 to /Game/UEDPIE_0_L1.L1 (0.008194s)
+[2021.01.29-04.13.59:255][217]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2021.01.29-04.13.59:272][217]LogInit: FAudioDevice initialized.
+[2021.01.29-04.13.59:272][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-04.13.59:305][217]LogLoad: Game class is 'GameModeBase'
+[2021.01.29-04.13.59:308][217]LogWorld: Bringing World /Game/UEDPIE_0_L1.L1 up for play (max tick rate 0) at 2021.01.29-13.13.59
+[2021.01.29-04.13.59:309][217]LogWorld: Bringing up level for play took: 0.002518
+[2021.01.29-04.13.59:321][217]PIE: /Game/UEDPIE_0_L1 -0.821のプレイ イン エディタの開始時間
+[2021.01.29-04.13.59:321][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.14.01:463][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.14.01:464][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.14.01:499][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-04.14.01:499][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/L1.L1:PersistentLevel' has LevelScriptBlueprint '/Game/L1.L1:PersistentLevel.L1' with GeneratedClass '/Game/L1.L1_C' with ClassGeneratedBy '/Game/L1.L1:PersistentLevel.L1'
+[2021.01.29-04.14.01:525][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-04.14.01:567][471]LogPlayLevel: Display: Destroying online subsystem :Context_19
